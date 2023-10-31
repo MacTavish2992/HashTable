@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\AISD5LAB\AISD5LAB\bin\Debug\AISD5LAB.exe.config
+C:\Users\Asus\source\repos\AISD5LAB\AISD5LAB\bin\Debug\AISD5LAB.exe
+C:\Users\Asus\source\repos\AISD5LAB\AISD5LAB\bin\Debug\AISD5LAB.pdb
+C:\Users\Asus\source\repos\AISD5LAB\AISD5LAB\obj\Debug\AISD5LAB.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\AISD5LAB\AISD5LAB\obj\Debug\AISD5LAB.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\AISD5LAB\AISD5LAB\obj\Debug\AISD5LAB.exe
+C:\Users\Asus\source\repos\AISD5LAB\AISD5LAB\obj\Debug\AISD5LAB.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AISD5LAB", "AISD5LAB\AISD5LAB.csproj", "{3AD2DD08-5711-4F5E-91D9-61982C84322E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AD2DD08-5711-4F5E-91D9-61982C84322E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AD2DD08-5711-4F5E-91D9-61982C84322E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AD2DD08-5711-4F5E-91D9-61982C84322E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AD2DD08-5711-4F5E-91D9-61982C84322E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DE1E10B-C81C-4F3B-8A7F-8455871F4AF4}
+	EndGlobalSection
+EndGlobal
